@@ -1,0 +1,27 @@
+body {
+  background-color: #F7CCAC;
+}
+
+.bacon:hover {
+  background-color: red;
+}
+
+.schizo {
+  max-width: 100%;
+  height: auto;
+  background-color: gold;
+}
+
+h1 {
+  color: red;
+  font-size: 62px;
+}
+
+p {
+  font-family: courier;
+  font-size: 160%;
+}
+
+#heading {
+  color: #363062;
+}
